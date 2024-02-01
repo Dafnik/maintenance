@@ -4,7 +4,7 @@
 ![Screenshot of the error page](./.github/screenshot.png)
 
 ## Customize
-In the error.html you can change following values in the `<script>` section.
+In the `index.html` you can change following values in the `<script>` section.
 * `contactEmail`
 * `timeToRefreshInSeconds`
 * `automaticRefresh`
